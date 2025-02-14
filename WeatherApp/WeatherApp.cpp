@@ -80,7 +80,7 @@ int main()
 		return 0;
 	}
 
-	fetchWeather(city, "f611cfb7ad46af994fb4d74512f9c45c");
+	fetchWeather(city, "YOUR_API_KEY");
 
 	return 0;
 }
